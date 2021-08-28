@@ -1,6 +1,6 @@
-## Cinna's First CS193 Homework 
+# Cinna's First CS193 Homework 
 
-# Favorite things about CS193
+## Favorite things about CS193
 
 - The TAs are cool.
 - The room is nice and air conditioned.
